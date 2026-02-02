@@ -1,0 +1,8 @@
+name: Minesweeper
+version: 1.0
+main: me.benjables.modules.Main
+
+commands:
+  minesweeper:
+    description: Initiates the minesweeper game
+    usage: /minesweeper
