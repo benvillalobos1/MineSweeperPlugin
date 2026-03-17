@@ -7,6 +7,9 @@
 # .idea folder
 .idea/
 
+# out/production folder
+out/production/MineSweeperPlugin/
+
 # Log file
 *.log
 
